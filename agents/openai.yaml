@@ -1,0 +1,7 @@
+interface:
+  display_name: "Self-Promotion Master"
+  short_description: "真实素材包装成高冲击力自我展示文本"
+  default_prompt: "Use $self-promotion-master to guide me with questions, confirm my需求画像, then generate a polished,可追问的自我展示文档。"
+
+policy:
+  allow_implicit_invocation: true
