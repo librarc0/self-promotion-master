@@ -11,6 +11,10 @@
 ![适用场景](https://img.shields.io/badge/适用-述职·晋升·职称·答辩·面试-blue.svg)
 ![场合](https://img.shields.io/badge/场合-学校·国央企·私企·外企-purple.svg)
 
+<p align="center">
+  <img src="assets/social-preview.png" alt="Self-Promotion Master social preview" width="100%">
+</p>
+
 > **Read this in:** [English](#english-version) | [中文](README.md)
 
 ---
