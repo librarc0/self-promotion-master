@@ -13,8 +13,7 @@
 
 如果你发现了安全漏洞，**请不要在公开 Issue 中披露**，而是通过以下方式私下报告：
 
-- 📧 邮件：[your-email@example.com](mailto:your-email@example.com)
-- 🔐 加密：使用项目所有者的 PGP 公钥（如适用）
+- 📧 邮件：[wangstan18@gmail.com](mailto:your-email@example.com)
 
 我们承诺：
 - **48 小时内**确认收到你的报告
