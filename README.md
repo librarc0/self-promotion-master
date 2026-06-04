@@ -1,17 +1,50 @@
 # Self-Promotion Master · 包装大师
 
-> **让一个真实但谦虚的人，看起来像一个被低估的狠角色。**
-> 把"做了点事"的朴素表达，系统化包装成"做了件大事"的高冲击力文本。
+> 把真实经历整理成更有冲击力、可追问、不过度虚构的述职、晋升、职称评审、面试和答辩材料。
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub stars](https://img.shields.io/github/stars/your-username/self-promotion-master?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/self-promotion-master?style=social)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
+![GitHub stars](https://img.shields.io/github/stars/librarc0/self-promotion-master?style=social)
+![GitHub forks](https://img.shields.io/github/forks/librarc0/self-promotion-master?style=social)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![No AI Hallucination](https://img.shields.io/badge/承诺-绝不无中生有-red.svg)
 ![适用场景](https://img.shields.io/badge/适用-述职·晋升·职称·答辩·面试-blue.svg)
 ![场合](https://img.shields.io/badge/场合-学校·国央企·私企·外企-purple.svg)
 
 > **Read this in:** [English](#english-version) | [中文](README.md)
+
+---
+
+## 快速体验
+
+把这个 Skill 交给 Codex / ChatGPT 类代理后，可以直接这样说：
+
+```text
+使用 self-promotion-master 开启引导模式。
+我想准备一次晋升答辩，但现在只有零散素材。
+请先问我问题，确认需求后再生成最终稿。
+```
+
+它会先确认场景、受众、时长、强度、素材和事实边界，再生成文档。
+
+### Before / After
+
+**原始表达**
+
+> 我参与了一个系统重构，修了一些性能问题，也写了几篇文档。
+
+**包装后**
+
+> 在核心系统重构项目中，我负责性能优化与工程规范沉淀两个模块：一方面定位关键链路瓶颈，推动接口响应时间显著下降；另一方面整理重构过程中的技术决策和排障经验，形成可复用文档，降低后续维护和新人接手成本。
+
+这不是编造经历，而是把“做了什么”改写成“解决了什么问题、产生了什么价值、留下了什么资产”。
+
+### 项目入口
+
+- 主 Skill：[SKILL.md](SKILL.md)
+- 场景索引：[references/INDEX.md](references/INDEX.md)
+- 职称评审模板：[references/scenario-title-review.md](references/scenario-title-review.md)
+- 完整案例：[examples/](examples/)
 
 ---
 
@@ -33,6 +66,14 @@
 这套方法论都能帮你**把已经做过的事，讲得让人眼前一亮**。
 
 **它不是教你撒谎，而是教你"基于事实的放大"** —— 用合适的动词、合适的维度、合适的包装，让评委/听众看到你**真正的价值**，而不是你朴实无华的自我描述。
+
+---
+
+## GitHub Topics 建议
+
+如果你 fork 或二次发布，建议给仓库添加这些 topics，方便被搜索到：
+
+`codex-skill`, `chatgpt`, `prompt`, `career`, `workplace`, `self-promotion`, `performance-review`, `promotion`, `interview`, `title-review`, `chinese`, `writing-assistant`
 
 ---
 
